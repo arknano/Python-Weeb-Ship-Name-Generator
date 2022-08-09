@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>WAIFU SHIP NAME GENERATOR</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+	<link rel="stylesheet" href="static/style.css">
+
+
+</head>
+
+<body>
+
+	<h1>WAIFU SHIP NAME GENERATOR</h1>
+
+	<div class="center">
+		<form action="/submit" method="post">
+			<input type="submit" class="btn" value="Generate New Names" >
+  </form>
+  <br>
+<div class="prefix">
+    <form method="POST" action="/prefix">
+        Prefix: <input type="text" name="prefix" required><br>
+        <input type="submit" value="Submit">
+    </form>
+    <p>Current prefix: {{prefix}}</p>
+</div>
+    <div id="results">
+      <pre id="word">{{display_word}}</pre>
+      
+  </div>
+</div>
+
+
+</body>
+
+</html>

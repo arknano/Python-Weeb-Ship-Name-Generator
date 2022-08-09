@@ -1,0 +1,332 @@
+Absinthe
+Alabaster
+Albino
+Almond
+Amaranth
+Amber
+Amethyst
+Apricot
+Aqua
+Aquamarine
+Ash
+Ash Gray
+Aubergine
+Auburn
+Avocado
+Azure
+Baby 
+Blue
+Banana
+Begonia
+Beige
+Birch
+Bisque
+Black
+Blond
+Blonde
+Blue
+Blue 
+Green
+Blue 
+Violet
+Blush
+Bone
+Bordeaux
+Bottle Green
+Brass
+Brick
+Brick Red
+Brindle
+Bronze
+Brown
+Brownish Yellow
+Buff
+Burgundy
+Burnt 
+Orange
+Burnt 
+Sienna
+Burnt 
+Umber
+Cadmium Orange
+Cadmium Yellow
+Cadmium Yellow Pale
+Camel
+Cameo
+Canary
+Caramel
+Cardinal
+Carmine
+Carnation
+Carnelian
+Celadon
+Cerise
+Cerulean
+Chalk
+Champagne
+Charcoal
+Chartreuse
+Cherry
+Chestnut
+Chocolate
+Chrome
+Chrome Green
+Chrome Red
+Chrome Yellow
+Cinnamon
+Citrine
+Claret
+Clear
+Coal Black
+Cobalt
+Cobalt Blue
+Cobalt Ultramarine
+Cocoa
+Coffee
+Color
+Complementary
+Copper
+Coral
+Cordovan
+Cornflower
+Cranberry
+Cream
+Crimson
+Crystalline
+Cyan
+Dapple-Gray
+Dark
+Dark Blue
+Dark Red
+Deep Brown
+Deep Red
+Denim
+Desert 
+Sand
+Dithered Color
+Drab
+Dull
+Dun
+Dusty 
+Rose
+Ebony
+Ecru
+Eggplant
+Eggshell
+Emerald
+Fawn
+Flamingo 
+Pink
+Flax
+Flesh
+Forest 
+Green
+French Blue
+French Ultramarine
+Frostiness
+Fuchsia
+Gamboge
+Gold
+Goldenrod
+Gray
+Grayish Brown
+Green
+Greenish Blue
+Greenish Yellow
+Grey
+Hazel
+Heather
+Henna
+Hoariness
+Hooker's Green
+Hot 
+Pink
+Hue
+Hyacinth
+Hydrangea
+Indian Red
+Indigo
+Iridescent
+Iron Blue
+Iron-Gray
+Ivory
+Ivory Black
+Jade
+Jade Green
+Jet
+Jet Black
+Jungle 
+Green
+Kelly 
+Green
+Kendal Green
+Khaki
+Lac Dye
+Lake
+Lapis
+Lavender
+Lazuline
+Lemon
+Light
+Light Brown
+Lilac
+Lime
+Linen
+Magenta
+Mahogany
+Maize
+Marble
+Maroon
+Mauve
+Melon
+Mink
+Mint
+Mocha
+Mosaic Gold
+Mottle
+Mulberry
+Mustard
+Navy
+Navy 
+Blue
+Nutmeg
+Oatmeal
+Obsidian
+Ocher
+Ochre
+Off-White
+Old Gold
+Old Rose
+Olive
+Olive Brown
+Olive Drab
+Olive Green
+Opal
+Opaque
+Orange
+Orange Red
+Orange Yellow
+Orchid
+Orchil
+Oxblood Red
+Oxford Gray
+Oyster
+Pale
+Pale Yellow
+Paprika
+Paris Green
+Pastel
+Pea Green
+Peach
+Peacock Blue
+Pearl
+Periwinkle
+Peroxide
+Persimmon
+Pewter
+Pink
+Pitch Black
+Platinum
+Plum
+Poppy
+Powder Blue
+Primary
+Primrose
+Prussian Blue
+Puce
+Pumpkin
+Purple
+Purplish Blue
+Purplish Pink
+Purplish Red
+Rainbow
+Raspberry
+Raven
+Raw Sienna
+Raw Umber
+Red
+Reddish Blue
+Reddish Brown
+Reddish Orange
+Reddish Purple
+Rose
+Rosiness
+Rouge
+Royal Blue
+Royal Purple
+Ruby
+Ruddiness
+Ruddy
+Russet
+Rust
+Sable
+Saffron
+Sage
+Sage Green
+Salmon
+Sand
+Sanguine
+Sapphire
+Scarlet
+Sea 
+Green
+Seafoam
+Seashell
+Secondary
+Sepia
+Shade
+Shamrock
+Sienna
+Silver
+Silver Gray
+Sky-Blue
+Slate
+Snuff-Color
+Soot Black
+Spectrum
+Spruce
+Steel 
+Blue
+Steel Gray
+Stone
+Straw
+Strawberry
+Tan
+Tangerine
+Tattletale Gray
+Taupe
+Tawniness
+Teal
+Terracotta
+Thistle
+Tie-Dye
+Tint
+Tomato
+Topaz
+Turkey Red
+Turquoise
+Tyrian Purple
+Ultramarine
+Umber
+Vandyke Brown
+Vanilla
+Venetian Red
+Verdant
+Verdigris
+Vermeil
+Vermilion
+Violet
+Viridian
+Viridity
+Watermelon
+Wheat
+White
+Wine
+Wisteria
+Yellow
+Yellow Green
+Yellow Ocher
+Yellowish Brown
+Yellowish Green
+Yellowish Pink
+Zinc White
